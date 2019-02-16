@@ -1,0 +1,2 @@
+﻿$("iframe").each(function(){$(this).attr("src",$(this).attr("src"));$(this).attr("src","https://cdn.ampproject.org/v0/amp-iframe-0.1.js")});
+function init(){var e=document.getElementsByTagName("iframe");for(var t=0;t<e.length;t++){if(e[t].getAttribute("src")){e[t].setAttribute("src",e[t].getAttribute("src"))}}}window.onload=init;
