@@ -1,0 +1,39 @@
+{
+  "name": "Mbah Dinan",
+  "short_name": "Mbah Dinan",
+  "scope": "https://www.mbahdinan.com/",
+  "start_url": "https://www.mbahdinan.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "informasi Seni Budaya Kalbar",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEicdTxI2pKWHslmieFkU-rUNcEFua-NacHKnL9Q5H57DZIVcc5fZK4a9jDz_iAjVI1gsDxJTaQMqt_8J_C-soPKVRcUThjkIaTh3ukltYAo-HoboyLHwWV1U8Jfmc_wDI7IKbJj5xGRR35WFcw12d5NH94hgBBzaU1fXfwdsLMQuQOsFTpVrDw1SahPjQ",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhWDzNY-tVFiyvjLNlfntTLsHblo0m6zBaN-Wtn0jpAtNM6O-zS-k9Wg7CwzzfYKYJo3QdbNa7n22xt9oIqS_35lQg0IJ9ahXtbwrRCC76nFd8CbFIO-FKLVtfzOTD79diecWMQLS4Oj3wI6hb9rE9NMO-2rYKQ-i5RFV7dbLfKLVbsXrK7HGj1f4xdAg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgpbRMlFJ1-65kTwSxxQdQvxnt99Ief4puxrEzSEEhC6OIisRSu4VhxIccrXf_JHbYTSAcLH8NxdxxVR43TykC7BVOSwjFThW6WuxtTVXBfcd084GYx2rhFV-ZAFRN33EgQDzeCjT6mKSJT7Y8pomvy5zpyMuC7HSelwL7odDBY-zxgWuEicMMiAItk3Q",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjKI87J3nrrbNTQdZbaL17pI7lxke0rS4dWBieB4ZM-X23f3ObBRdL6DsaHhAgQXi62-gZkrdXnDr6sEwM_1hXmdDirtTSGPyBc1U0GLB6FdUs1uNJtGlYGGBCA99yN0Z365SiQZgCFClia9zg0JWmiKT4GGcfjArvay6Ool9PmaIXe6Kozz1x-Q58Prw",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi-uiQkbCXPKyZCAZt9Icd1ifwYciEYtxH6Ae_gT1YQBxb4wNg2bAp_nYVC67rFCPT32wX757pM2DtKQErUgWrz0X6qjBIqpUMN96_qTfzoU2_pNvFNkwhmZXEpe-TpOg5fqvaXnKu0iawX9ZZZvGDeuhsiV_64x5UAP1CUrBAwGZBmMouZJJtLRo-fYw",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiRgJSfUdbxI6eckk_xQDQpCRujpZsRWfL1DAFKXTF-nhdCNivwpi3S8-zmK0Iee3Odgpfd-nakgo8yTEZuQ-BAB34lYul7fmkkcSKaElrgaXj41ymFITNSrEb0by7ti_b9JoSpPy30g78UHRUmXxdpxBJBotaz7ccoOTIRk3iG1hDBtylI_rX6kiXOkA",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjOC2oqNc0PoIXsSWx3uCZ2docP6FNS4mRk5gYpJ9ZhvbU9WzL6dDcJUttxb9TIigV8o-LNKofnR1UJHWBXj0_OpgrlgKGRqRH0QJNQA_s3d_HhtREzBAescrIY2-_nGFsmw5-Aup4X_kAW093CwVekSDIaKALk7cH3AuCCojU37x5oPjjsUSwUEbP9DQ",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
